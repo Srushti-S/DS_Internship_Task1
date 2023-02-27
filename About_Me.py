@@ -12,5 +12,8 @@ st.write(":pushpin: [Linkedin](https://www.linkedin.com/in/srushti-sonavane-9154
 
 st.write(":e-mail: [Email](srushtisonavane@gmail.com)")
 
-if st.button(':green[Have a great day!]'):
+
+st.text("")
+st.text("")
+if st.button('Have a great day!'):
     st.balloons()
