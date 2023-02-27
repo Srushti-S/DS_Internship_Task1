@@ -11,3 +11,6 @@ st.write(":safety_pin: [Github](https://github.com/Srushti-S)")
 st.write(":pushpin: [Linkedin](https://www.linkedin.com/in/srushti-sonavane-9154151ba/)")
 
 st.write(":e-mail: [Email](srushtisonavane@gmail.com)")
+
+if st.button(':green[Have a great day!]'):
+    st.balloons()
