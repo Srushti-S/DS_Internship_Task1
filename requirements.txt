@@ -10,6 +10,7 @@ backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
 blinker==1.5
+cargo==0.3
 cachetools==5.3.0
 certifi==2022.9.24
 cffi==1.15.1
